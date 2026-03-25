@@ -1,0 +1,1 @@
+nextflow run main.nf -params-file test_params.yaml -profile docker -c hg38.config

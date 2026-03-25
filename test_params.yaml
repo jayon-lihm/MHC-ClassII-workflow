@@ -1,0 +1,2 @@
+fasta: ./data/ref/Homo_sapiens_assembly38.fasta.gz
+outdir: ./test_results/
